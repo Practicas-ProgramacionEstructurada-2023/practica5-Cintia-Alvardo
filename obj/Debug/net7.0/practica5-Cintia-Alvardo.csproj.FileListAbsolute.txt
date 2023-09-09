@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\bin\Debug\net7.0\practica5-Cintia-Alvardo.exe
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\bin\Debug\net7.0\practica5-Cintia-Alvardo.deps.json
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\bin\Debug\net7.0\practica5-Cintia-Alvardo.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\bin\Debug\net7.0\practica5-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\bin\Debug\net7.0\practica5-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\refint\practica5-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\practica5-Cintia-Alvardo.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Pracrica #5\practica5-Cintia-Alvardo\obj\Debug\net7.0\ref\practica5-Cintia-Alvardo.dll
